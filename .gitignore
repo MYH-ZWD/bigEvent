@@ -1,0 +1,6 @@
+# # 表示注释
+# 下面设置项目忽略的文件
+
+# 忽略 node 第三方模块
+package-lock.json
+node_modules
